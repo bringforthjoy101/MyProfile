@@ -19,6 +19,7 @@ console.log("Total Number of Fizz = "      + Fizz .length);
 console.log("Total Number of Others = "      + Buzz.length);
 console.log("Total Number of FizzBuzz = "  + FizzBuzz.length);
 console.log("Total Number of Others = "    + Others.length);
+console.log("Total Number of Others = "    + Others.length);
 
 var chunk = 50;
 var ID = new Array(100);
